@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @apal0
+- 👀 I’m interested in mathematics
+- 🌱 I’m currently learning C programming language
+- 📫 How to reach me
